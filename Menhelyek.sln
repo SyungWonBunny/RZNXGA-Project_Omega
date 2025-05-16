@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Menhelyek", "Menhelyek\Menhelyek.fsproj", "{87C17784-6091-4E60-8292-59EC10A64023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C17784-6091-4E60-8292-59EC10A64023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C17784-6091-4E60-8292-59EC10A64023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C17784-6091-4E60-8292-59EC10A64023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C17784-6091-4E60-8292-59EC10A64023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FC0653C-F66A-4542-A577-219DDDA93D37}
+	EndGlobalSection
+EndGlobal
